@@ -1,1 +1,1 @@
-DEPLOY: https://github.com/valedelaf/desafio1javascript.git
+DEPLOY: https://valedelaf.github.io/desafio1javascript/
